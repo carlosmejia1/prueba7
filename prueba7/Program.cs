@@ -10,6 +10,7 @@ namespace prueba7
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
